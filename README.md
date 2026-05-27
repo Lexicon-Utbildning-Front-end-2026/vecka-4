@@ -13,17 +13,17 @@
 
 #### 💻 E-Learning
 * [(YT - Kevin Powell) - HTML & CSS for Absolute Beginners: Media Query basics - making a layout responsive](https://www.youtube.com/watch?v=QGb-W-c-gIM)
-* [[Delen om Container queries är överkurs - [(YT - Kevin Powell) Learn how to use Media queries & Container queries](](](https://www.youtube.com/watch?v=2rlWBZ17Wes)
-* [[Överkurs för de som vill - [(YT - Kevin Powell) New CSS Units! Container Query Units explained](](](https://www.youtube.com/watch?v=ZSaAHb5dRwQ)
 * [(YT - Coding2GO) - Stop using so many Media Queries - Use Clamp() instead!](https://www.youtube.com/watch?v=pYW3O0AxpI8)
 * [(YT - Kevin Powell) - min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo)
+* Delen om Container queries är överkurs - [(YT - Kevin Powell) Learn how to use Media queries & Container queries](https://www.youtube.com/watch?v=2rlWBZ17Wes)
+* Överkurs för de som vill - [(YT - Kevin Powell) New CSS Units! Container Query Units explained](https://www.youtube.com/watch?v=ZSaAHb5dRwQ)
 
 #### 📃 Läsning
 * [(MDN) - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using)
 * [(MDN) - max()](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/max)
 * [(MDN) - min()](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/min)
 * [(MDN) - clamp()](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp)
-* [[Extra för de som vill fördjupa sig i viewport units [(logrocket) - vh and vw: Guide to CSS viewport units](](](https://blog.logrocket.com/improving-mobile-design-latest-css-viewport-units/)
+* Extra för de som vill fördjupa sig i viewport units [(logrocket) - vh and vw: Guide to CSS viewport units](https://blog.logrocket.com/improving-mobile-design-latest-css-viewport-units/)
 
 #### 🛠️ Övningar
 * [(MDN) - Test your skills: Responsive web design and media queries](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Responsive_design)
