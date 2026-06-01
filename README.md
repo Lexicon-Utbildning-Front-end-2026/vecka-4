@@ -34,17 +34,21 @@
 
 ## 📅 Tisdag: Färger och färgsystem
 
-Färger och färgsystem rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet, relative colors, ev color-mix
+Färger och färgsystem  hex, rgb, hsl, lab, lch, oklch, alpha/genomskinlighet, relativa färger, color-mix(), light-dark()
 
 ### 🎯 Mål för dagen
 
-* Nyare färgsystem i CSS samt opacity
+* Nyare färgsystem och färgverktyg i CSS
 
 ### 📚 Material
 
 #### 📃 Läsning
 * [CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors)
 * [Relative colors](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Colors/Using_relative_colors)
+* [css-tricks - color-mix()](https://css-tricks.com/almanac/functions/c/color-mix/)
+* [mdn oklch](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/oklch)
+* [mdn light-dark](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/light-dark)
+* Extra - Om man vill gå på djupet med oklch [Evil Martians - OKLCH in CSS](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 
 #### 🛠️ Övningar
 * [Color Cards övning](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/Exercise-Color-Cards)
