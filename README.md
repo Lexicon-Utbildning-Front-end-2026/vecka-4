@@ -9,6 +9,9 @@
 * Förstå och kunna använda sig av Media Queries (och Container Queries för de som vill).
 * Kunna använda sig av Clamp, Min och Max.
 
+Uppgift: Försök att använda er av det ni lärt er idag för att göra er recpetsida responsiv och snygg i alla storlekar.
+Försök få med både layout, bilder och text.
+
 ### 📚 Material
 
 #### 💻 E-Learning
@@ -40,6 +43,9 @@ Färger och färgsystem  hex, rgb, hsl, lab, lch, oklch, alpha/genomskinlighet, 
 
 * Nyare färgsystem och färgfunktioner i CSS
 
+Uppgift: Skapa en Hero-sektion längst upp på er receptsida, och få den responsiv och snygg m.h.a Clamp osv.
+Fixa även till det med färgerna enligt det ni lärt er idag.
+
 ### 📚 Material
 
 #### 📃 Läsning
@@ -69,6 +75,8 @@ Färger och färgsystem  hex, rgb, hsl, lab, lch, oklch, alpha/genomskinlighet, 
 ### 🎯 Mål för dagen
 
 * Formulär och inputs med accessibility, input types, (basic validation).
+
+Uppgift: Bygg ett formulär på er receptsida. Vilken typ av formulär får ni välja helt själva.
 
 ### 📚 Material
 
