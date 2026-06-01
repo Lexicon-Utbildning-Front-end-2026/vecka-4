@@ -32,27 +32,7 @@
 
 ---
 
-## 📅 Tisdag: Formulär
-
-### 🎯 Mål för dagen
-
-* Formulär och inputs med accessibility, input types, (basic validation).
-
-### 📚 Material
-
-#### 💻 E-Learning
-* [(Pluralsight) Accessibility: Keyboard Input and Forms](https://app.pluralsight.com/library/courses/accessibility-keyboard-input-forms/table-of-contents)
-* [(YT - Kevin Powell) - Form Styling Essentials](https://www.youtube.com/watch?v=nuDpLN2dazU)
-
-#### 📃 Läsning
-* [(MDN) - Your first form](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form)
-
-#### 🛠️ Övningar
-* [(Formulär) - Skapa formulär](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
-
----
-
-## 📅 Onsdag: Färger och färgsystem
+## 📅 Tisdag: Färger och färgsystem
 
 Färger och färgsystem rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet, relative colors, ev color-mix
 
@@ -71,11 +51,31 @@ Färger och färgsystem rgb, hsl, lab, lch (oklch..), hex, alpha/genomskinlighet
 
 ---
 
-## 📅 Torsdag: Eget arbete
+## 📅 Onsdag: Repetition
 
 ### 🎯 Mål för dagen
 
 * Eget arbete med det man känner att man behöver eller ligger efter med.
+---
+
+## 📅 Torsdag: Formulär
+
+### 🎯 Mål för dagen
+
+* Formulär och inputs med accessibility, input types, (basic validation).
+
+### 📚 Material
+
+#### 💻 E-Learning
+* [(Pluralsight) Accessibility: Keyboard Input and Forms](https://app.pluralsight.com/library/courses/accessibility-keyboard-input-forms/table-of-contents)
+* [(YT - Kevin Powell) - Form Styling Essentials](https://www.youtube.com/watch?v=nuDpLN2dazU)
+
+#### 📃 Läsning
+* [(MDN) - Your first form](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form)
+
+#### 🛠️ Övningar
+* [(Formulär) - Skapa formulär](https://github.com/linuszocom/forms-uppgift/blob/main/README.md)
+
 
 ---
 
