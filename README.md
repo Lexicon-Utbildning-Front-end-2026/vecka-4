@@ -38,7 +38,7 @@ Färger och färgsystem  hex, rgb, hsl, lab, lch, oklch, alpha/genomskinlighet, 
 
 ### 🎯 Mål för dagen
 
-* Nyare färgsystem och färgverktyg i CSS
+* Nyare färgsystem och färgfunktioner i CSS
 
 ### 📚 Material
 
