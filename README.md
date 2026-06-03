@@ -112,7 +112,7 @@ Uppgift: Bygg ett formulär på er receptsida. Vilken typ av formulär får ni v
 
 4. Efter morgonmötet går ni till era grupper och kör rundan med att förklara för de andra i gruppen.
 
-5. Förklara inte all kod utan håll fokus på formuläret (endast punkt 3 i övningen) i första hand. Hinner ni kan ni även ta om personen använt min, max eller clamp på sidan.
+5. Förklara inte all kod utan håll fokus på formuläret i första hand. Hinner ni kan ni även ta om personen använt min, max eller clamp på sidan.
 
 6. Avsluta din presentation med:
    * 1 sak du tyckte var bra eller intressant med koden
