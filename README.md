@@ -121,6 +121,5 @@ Uppgift: Bygg ett formulär på er receptsida. Vilken typ av formulär får ni v
 7. Avslutande diskussion - Diskutera i gruppen:
   * Hur var det att förklara någon annans kod, var det någon skillnad mot att förklara sin egen?
   * Hur var det att höra någon annan förklara er egen kod?
-  * Extra om ni hinner - Vad tyckte ni var mest intressant under torsdagens snack?
 
 ---
