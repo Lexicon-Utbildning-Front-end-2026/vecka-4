@@ -122,4 +122,7 @@ Uppgift: Bygg ett formulär på er receptsida. Vilken typ av formulär får ni v
   * Hur var det att förklara någon annans kod, var det någon skillnad mot att förklara sin egen?
   * Hur var det att höra någon annan förklara er egen kod?
 
+8. Återsamling - Sammanfatta er diskussion
+   * Hur tyckte ni i gruppen att det var att prata om kod på det här sättet? Var det någon skillnad mot att presentera sin egen kod?
+
 ---
